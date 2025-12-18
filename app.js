@@ -8,5 +8,5 @@ document.addEventListener("contextmenu",toogmenu)
 
 function toogmenu(event) {
     console.log(event);
-    
+    // je regarde just
 }
